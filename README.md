@@ -1,5 +1,6 @@
 ## Hi there 👋
 🔭 I’m currently working on AI-driven Authentication for Electric Vehicles and Electric Vehicle Charging Systems
+⚡ Fun fact: I enjoy food as long as I dont have to cook!
 <!--
 **Binder20/Binder20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
